@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋I am Rushikesh<br>🎯I'm currently working on JAVA and HTML,CSS.<br>🤝I'm looking for help for open source contribution.<br>✍️I'm currently learning Frontend Development.<br>👨‍💻Lifelong student who love engaging with tech  communities and connecting with new people.<br>📪How to reach me: mangrulerushikesh2003@gmail.com<br>💥My Sideline: I love Content Creation.<br>
+🙋I am Rushikesh<br>🎯I'm currently working on JAVASCRIPT and HTML,CSS.<br>🤝I'm looking for help for open source contribution.<br>✍️I'm currently learning Frontend Development.<br>👨‍💻Lifelong student who love engaging with tech  communities and connecting with new people.<br>📪How to reach me: mangrulerushikesh2003@gmail.com<br>💥My Sideline: I love Content Creation.<br>
 
 
 ## 🌐 Socials:
