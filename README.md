@@ -27,6 +27,8 @@ I’m also active in **competitive programming** and love being part of **tech c
 #### 🛠 **DevOps & Deployment**
 - **Platforms**: Vercel, Railway, Netlify
 - **Tools**: Git, GitHub, VS Code, Postman
+- **CI/CD**: Jenkins, CI/CD pipelines
+- **Containerization**: Docker
 
 #### 🧠 **AI & Automation**
 - **Inngest**: Serverless CRON jobs, background queues
@@ -53,8 +55,8 @@ I’m also active in **competitive programming** and love being part of **tech c
 
 I'm open to internships, freelance collaborations, or just networking with like-minded developers! Let's build something cool together.
 
-- 🌐 [Portfolio](https://your-portfolio-link.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/rushikesh-mangrule-1979b4275)  
+- 🌐 [Portfolio](https://portfolio-g24c.vercel.app/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rushikesh-mangrule-fullstack-developer/)  
 - 📸 [Instagram](https://instagram.com/its_rushi_9)  
 - 📧 Email: **mangrulerushikesh2003@gmail.com**
 
