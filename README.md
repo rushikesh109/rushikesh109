@@ -74,3 +74,10 @@ I'm open to internships, freelance collaborations, or just networking with like-
 <!-- Created with ❤️ by Rushikesh Mangrule | Powered by GPRM (https://gprm.itsvg.in) -->
 
 <!-- You can add GitHub stats, random quote, and visit counter below this if needed -->
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-light.svg">
+</picture>
